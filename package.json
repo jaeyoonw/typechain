@@ -1,0 +1,12 @@
+{
+  "name": "typescript-chain",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/jaeyoonw/typechain.git",
+  "author": "jaeyoonw <jaeyoon.dev@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js",
+    "prestart": "tsc"
+  }
+}

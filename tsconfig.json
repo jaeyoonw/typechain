@@ -1,0 +1,10 @@
+{
+  // node.js를 평범하게 사용하고 다양한걸 import, export 가능하게 함.
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "ES2015",
+    "sourceMap": true
+  },
+  "include": ["index.ts"],
+  "exclude": ["node_modules"]
+}
